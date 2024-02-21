@@ -35,6 +35,7 @@ restart_klipper_when_powered = True
 restart_delay = 5
 initial_state = on
 locked_while_printing = True
+bound_services = crowsnest
 
 [announcements]
 subscriptions = 
