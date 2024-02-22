@@ -1,2 +1,3 @@
-autocommit.sh
-.theme
+.env
+secrets.conf
+*.bkp
