@@ -19,6 +19,7 @@ trusted_clients =
 	FE80::/10
 	::1/128
 	192.168.50.0/24
+	FC00::/7
 
 [file_manager]
 enable_object_processing = True
